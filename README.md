@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">  
-  <img src="https://github.com/Rishu725r/Rishu725r/blob/main/image.png" width="600" alt="Rishu725r Banner">
+  <img src="https://github.com/Rishu725r/Rishu725r/blob/main/image2.png" width="600" alt="Rishu725r Banner">
 </div>
 
 <!-- Animated Coding GIF -->
