@@ -1,97 +1,90 @@
-#Welcome to My GitHub Profile!
+<!-- Profile Header -->
+<div align="center">  
+  <img src="https://github.com/Rishu725r/Rishu725r/blob/main/image.png" width="600" alt="Rishu725r Banner">
+</div>
 
-Hi there! I'm Rishu Raj, a passionate developer, 73 Al enthusiast, and cloud practitioner. I love building scalable Al applications, exploring LLM architectures, and optimizing machine learning models.
+<!-- Animated Coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## Tech Stack
-
-### Programming & Core Concepts
-
+<!-- Profile Views Counter -->
 <p align="left">
-
-<img
-
-src="https://img.shields.io/badge/Python-3776AB ?style-for-the-badge&logo=python&logoColor=white" />
-
-<img
-
-src="https://img.shields.io/badge/Flask-000000?style =for-the-badge&logo=flask&logoColor=white" />
-
-<img
-
-src="https://img.shields.io/badge/SQL-4479A1?style= for-the-badge&logo=mysql&logoColor=white" />
-
-<img
-
-src="https://img.shields.io/badge/Vector%20DB-0055 71?style-for-the-badge&logo-redis&logoColor=white" />
-
+  <img src="https://komarev.com/ghpvc/?username=Rishu725r&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### Cloud & DevOps
+---
 
+## 👋 About Me  
+🚀 Passionate coder & lifelong learner exploring the realms of programming.  
+
+- 🔭 **Currently Working On:** [Web Development](https://github.com/Rishu725r/WebDev_Repo_BEG-ADV)  
+- 🌱 **Learning:** Cloud Computing, CyberSecurity & exploring new tech stacks.  
+- 👨‍💻 **My Projects:** [GitHub Repositories](https://github.com/Rishu725r)  
+- 📫 **Contact Me:**  
+  📧 **niteshkumaro7@hotmail.com**  
+  📧 **nitesh.guptaji76@gmail.com**  
+
+---
+
+## 🌐 Connect With Me  
 <p align="left">
-
-<img
-
-src="https://img.shields.io/badge/AWS-232F3E?style= for-the-badge&logo-amazon-aws&logoColor=white" />
-
-<img
-
-src="https://img.shields.io/badge/Google%20Cloud -4285F4?style=for-the-badge&logo-google-cloud& logoColor=white" />
-
-<img
-
-src="https://img.shields.io/badge/Azure-0078D4?style =for-the-badge&logo=microsoft-azure&logoColor= white" />
-
-<img
-
-src="https://img.shields.io/badge/Docker-2496ED ?style-for-the-badge&logo=docker&logoColor=white" />
-
-<img
-
-src="https://img.shields.io/badge/Kubernetes-326CE5 ?style-for-the-badge&logo-kubernetes&logoColor=
-
-white" />
-
+  <a href="https://linkedin.com/in/Rishu725r" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/nitesh_shah67" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Rishu725r" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@Rishu725r" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://devniteshkumarshah.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-### Al & Machine Learning
+---
 
-<p align="left">
+## 🚀 Tech Stack  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,linux,aws,vercel,python" />
+</div>
 
-<img
+---
 
-src="https://img.shields.io/badge/Machine%20Learnin g-FF6F00?style=for-the-badge&logo=mlflow&logoColor
-
-=white" />
-
-<img
-
-src="https://img.shields.io/badge/Deep%20Learning -FF0000?style=for-the-badge&logo=pytorch&logoColor =white" />
-
-<img
-
-src="https://img.shields.io/badge/TensorFlow-FF6F00 ?style-for-the-badge&logo=tensorflow&logoColor=
-
-white" />
-
-<img
-
-src="https://img.shields.io/badge/PyTorch-EE4C2C ?style=for-the-badge&logo=pytorch&logoColor=white" />
-
+## 🔥 GitHub Stats  
+<p align="center">
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishu725r&theme=tokyonight" width="48%" alt="Streak Stats"/>-->
+ <img src="https://github-readme-stats.vercel.app/api?username=Rishu725r&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
 </p>
 
-### Large Language Models (LLMs)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishu725r&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p align="left">
+---
 
-<img
+## 🎯 Live Projects  
+📌 **Click on the project names to check them out:**  
 
-src="https://img.shields.io/badge/GPT-005571?style= for-the-badge&logo=openai&logoColor=white" />
+### **🛠️ Web Apps**  
+🔹 [ToDo App](https://Rishu725r.github.io/ToDo-App/)  
+🔹 [Calculator](https://Rishu725r.github.io/Calculator/)  
+🔹 [Fresher: A Student Event Planner](https://fresherwebsite.vercel.app/)  
+🔹 [Search Movie](https://moviesearchview.vercel.app/)  
 
-<img
+### **💬 Chat Applications**  
+🔹 [NodeJs RealTime Chat-App](https://github.com/Rishu725r/NodeJs_Realtime-Chat_Application) *(Currently Unavailable)*  
 
-src="https://img.shields.io/badge/BERT-1F425F?style =for-the-badge&logo=google&logoColor=white" />
+---
 
-<img
+## 🏆 Achievements & Badges  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishu725r&theme=dracula&margin-w=15" alt="GitHub Trophies"/>
+</p>
 
-src="https://img.shields.io/badge/LLaMA-FF4500?s
+---
+
+## 🎨 Fun Fact  
+> **"Any sufficiently advanced bug is indistinguishable from a feature."** 😆
