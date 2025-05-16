@@ -17,27 +17,20 @@
 🚀 Passionate coder & lifelong learner exploring the realms of programming.  
 
 - 🔭 **Currently Working On:** [Web Development](https://github.com/Rishu725r/WebDev_Repo_BEG-ADV)  
-- 🌱 **Learning:** Cloud Computing, CyberSecurity & exploring new tech stacks.  
+- 🌱 **Learning:** Cloud Computing, DevOps & exploring new tech stacks.  
 - 👨‍💻 **My Projects:** [GitHub Repositories](https://github.com/Rishu725r)  
 - 📫 **Contact Me:**  
-  📧 **niteshkumaro7@hotmail.com**  
-  📧 **nitesh.guptaji76@gmail.com**  
+  📧 **rishu725r@gmail.com**  
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/Rishu725r" target="_blank">
+  <a href="[https://linkedin.com/in/Rishu725r](https://www.linkedin.com/in/rishu-raj-175042312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk0FNiVemRZeEwtw2XSDoBQ%3D%3D)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/nitesh_shah67" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Rishu725r" target="_blank">
+  <a href="https://x.com/rishu_ronit?t=cncoaq3_FW4CYal4HHShgw&s=08" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@Rishu725r" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://devniteshkumarshah.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -69,13 +62,7 @@
 📌 **Click on the project names to check them out:**  
 
 ### **🛠️ Web Apps**  
-🔹 [ToDo App](https://Rishu725r.github.io/ToDo-App/)  
-🔹 [Calculator](https://Rishu725r.github.io/Calculator/)  
-🔹 [Fresher: A Student Event Planner](https://fresherwebsite.vercel.app/)  
-🔹 [Search Movie](https://moviesearchview.vercel.app/)  
-
-### **💬 Chat Applications**  
-🔹 [NodeJs RealTime Chat-App](https://github.com/Rishu725r/NodeJs_Realtime-Chat_Application) *(Currently Unavailable)*  
+  Cineque  
 
 ---
 
