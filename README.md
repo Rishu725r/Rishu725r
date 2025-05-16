@@ -26,7 +26,7 @@
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="[https://linkedin.com/in/Rishu725r](https://www.linkedin.com/in/rishu-raj-175042312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk0FNiVemRZeEwtw2XSDoBQ%3D%3D)" target="_blank">
+  <a href="https://www.linkedin.com/in/rishu-raj-175042312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk0FNiVemRZeEwtw2XSDoBQ%3D%3D)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://x.com/rishu_ronit?t=cncoaq3_FW4CYal4HHShgw&s=08" target="_blank">
